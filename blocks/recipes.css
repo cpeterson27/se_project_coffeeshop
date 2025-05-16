@@ -13,8 +13,8 @@
     font-style: normal;
     font-weight: 500;
     font-size: 44px;
-    line-height: 32px;
-    max-width: 580;
+    line-height: 52px;
+    max-width: 580px;
 }
 
 .recipes__subtitle {
@@ -39,11 +39,10 @@
 .recipes__video-caption {
     display: flex;
     justify-content: space-between;
-    margin: 0;
     font-size: 20px;
     font-weight: 500;
     line-height: 30px;
-    margin: 24px;
+    margin: 24px 0 0 0;
 }
 
 .recipes__iframe {
