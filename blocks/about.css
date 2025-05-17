@@ -38,6 +38,10 @@
     margin-top: 20px;
 }
 
+:first-of-type {
+    margin-top: 0;
+}
+
 .about__circle {
     position: absolute;
     border-radius: 50%;
